@@ -1,1 +1,4 @@
 # U.S-Pollution---Data-Mining
+Over the years, the topics of global warming, air pollution, and their consequences for the planet and human health have become prominent. Scientists and climate activists have been studying air quality and its pollutants to better understand their sources, identify the regions that are affected the most, and forecast future pollution levels.
+This report focuses on a dataset compiled by the U.S. Environmental Protection Agency (EPA), which recorded data on four major air pollutants from 2000 to 2016. The original dataset was formatted and compiled into a single file, which is available to the public on Kaggle.
+Through a thorough analysis of four major pollutants: Nitrogen Dioxide, Sulfur Dioxide, Carbon Monoxide, and Ground-Level Ozone, we developed Multiple Linear Regression models, Neural Networks, and Random Forest classifiers to analyze, predict, and classify our data.
